@@ -1,0 +1,15 @@
+{
+  "name": "grok-shopify-backend",
+  "version": "1.0.0",
+  "description": "Backend for Shopify Grok chatbot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "cors": "^2.8.5"
+  }
+}
